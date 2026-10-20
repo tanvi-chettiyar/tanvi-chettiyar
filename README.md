@@ -1,6 +1,6 @@
 # Hi there! I'm Tanvi Chettiyar 👋
 
-A **Data Engineer** with a Master's in Data Science and a background in Aerospace Engineering. Passionate about building robust end-to-end data pipelines—from big data orchestration to impactful business visualization.
+A **Data Engineer** with a Master's in Data Science. Focused on building scalable end-to-end pipelines, driving big data orchestration, and turning complex datasets into clear data visualizations for business impact.
 
 ---
 
