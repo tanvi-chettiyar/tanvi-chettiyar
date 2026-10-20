@@ -1,33 +1,57 @@
-## Hi there 👋
- My name is Tanvi Chettiyar. I am a data engineer by background and have a Master's degree in Data Science. I am currently learning data visualization using Tableau. 
- 
- I am hoping to learn Alteryx, Snowflake, Databricks, and dbt as well to help me create a rounded skillset for both front and back end of the data pipeline. 
- 
- Other tools I currently have: Python, SQL, Databasing (PostgreSQL), Data Warehousing (Greenplum, Cloudera Hadoop, Apache Hive), Orchestration (Apache Airflow), Big Data (Spark and PySpark)
+# Hi there! I'm Tanvi Chettiyar 👋
 
-## Education
+A **Data Engineer** with a Master's in Data Science and a background in Aerospace Engineering. Passionate about building robust end-to-end data pipelines—from big data orchestration to impactful business visualization.
 
-Bachelor's degree: BS in Aerospace Engineering
+---
 
-Master's degree: MS in Data Science
+### 🚀 About Me
+* 🔭 **Currently Building:** End-to-end data pipelines and analytical data models.
+* 🎨 **Currently Learning:** Data Visualization using **Tableau**.
+* 🎯 **Future Goals:** Expanding skills in **Alteryx**, **Snowflake**, **Databricks**, and **dbt** to master full-stack data architecture.
+* 🎓 **Education:** 
+  * **M.S. in Data Science**
+  * **B.S. in Aerospace Engineering**
 
+---
 
-## Certifications
-Completed Certifications:
+### 🛠️ Technical Stack & Tools
 
-Currently Studying for: Tableau Data Analyst, Alteryx Designer Core, AWS Data Engineer
+**Languages & Core**
+
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,bash,git)](https://skillicons.dev)
+
+**Data Pipelines, Big Data & Warehousing**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Cloudera_Hadoop-66CCFF?style=for-the-badge&logo=cloudera&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Greenplum](https://img.shields.io/badge/Greenplum-336699?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Currently Adding to Stack**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+---
+
+### 📜 Certifications
+
+#### 🎯 Currently Preparing For
+- [ ] **Tableau Data Analyst**
+- [ ] **Alteryx Designer Core**
+- [ ] **AWS Certified Data Engineer – Associate**
+
 
 <!--
-**tanvi-chettiyar/tanvi-chettiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### ✅ Completed
+- [x] Certification Name
 -->
+
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirajkumar)
