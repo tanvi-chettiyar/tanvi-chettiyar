@@ -5,6 +5,14 @@
  
  Other tools I currently have: Python, SQL, Databasing (PostgreSQL), Data Warehousing (Greenplum, Cloudera Hadoop, Apache Hive), Orchestration (Apache Airflow), Big Data (Spark and PySpark)
 
+## Certifications
+Completed Certifications:
+
+Currently Studying for:
+Tableau Data Analyst
+Alteryx Designer Core
+AWS Data Engineer
+
 <!--
 **tanvi-chettiyar/tanvi-chettiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
